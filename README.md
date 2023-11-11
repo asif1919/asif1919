@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <h1 align="center">Hi there 👋</h1>
 I'm <strong>Asif Ullah</strong> | Flutter Enthusiast 🚀
 Crafting native cross-platform wonders with <a href="https://flutter.dev" target="_blank"><u>Flutter</u></a>. Turning ideas into sleek, seamless mobile experiences. Let's code the future! ✨
@@ -13,6 +13,7 @@ Crafting native cross-platform wonders with <a href="https://flutter.dev" target
 - Languages : Dart, Java ,Phython
 - Frameworks : Flutter 
 - Strong knowledge in RESTful web-services/API and Firebase
+- Already published 2 apps in Play Store 
 - Good problem solving skill 
 - Know about business analysis
 - 📫 How to reach me **asifullah9566@gmail.com**
